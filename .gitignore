@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# PDF files (电子书太大不提交)
+*.pdf
+
+# Obsidian workspace
+.obsidian/
