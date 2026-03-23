@@ -59,3 +59,8 @@ dkms.conf
 
 # Obsidian workspace
 .obsidian/
+
+# Archive files
+*.7z
+*.zip
+*.rar
